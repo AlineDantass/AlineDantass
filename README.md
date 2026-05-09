@@ -1,4 +1,4 @@
-# Olá, eu sou a Aline
+# Olá, eu sou Aline
 
 Passei mais de dez anos consertando o que quebrava.
 Hoje, estou aprendendo a construir.
