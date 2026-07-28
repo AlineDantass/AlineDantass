@@ -23,7 +23,7 @@ IA generativa. Esse caminho não foi acidente, foi lógica.
 |---|---|
 | 🔧 Suporte & Infraestrutura (11 anos) | Lógica investigativa, Troubleshooting, Atenção ao detalhe |
 | ✍️ Roteirista & Prompt Engineer | Estrutura de informação, Comunicação, IA generativa |
-| 🎓 ADS — 2º semestre | Base técnica em Desenvolvimento de Sistemas |
+| 🎓 ADS — 3º semestre | Base técnica em Desenvolvimento de Sistemas |
 
 ---
 
