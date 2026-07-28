@@ -1,11 +1,7 @@
 # Olá, eu sou Aline
 
-Passei mais de dez anos consertando o que quebrava.
-Hoje, estou aprendendo a construir.
+Desenvolvedora Front-end em formação, com experiência anterior em Suporte e Infraestrutura de TI e atuação em projetos reais. Busco uma oportunidade de estágio para contribuir com o desenvolvimento de interfaces modernas, acessíveis e responsivas, enquanto continuo evoluindo tecnicamente em HTML, CSS, JavaScript e tecnologias do ecossistema Front-end.
 
-Sou desenvolvedora Front-End em formação, com background em
-suporte técnico, infraestrutura e produção de conteúdo com
-IA generativa. Esse caminho não foi acidente, foi lógica.
 
 ---
 
